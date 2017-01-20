@@ -1,0 +1,30 @@
+{
+  "name": "javbus-magnet-spider",
+  "version": "1.0.0",
+  "description": "get magnet from javbus website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianjie/javbus-magnet-spider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dianjie/javbus-magnet-spider/issues"
+  },
+  "homepage": "https://github.com/dianjie/javbus-magnet-spider#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "mysql": "^2.12.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javbus",
+    "magnet"
+  ],
+  "author": "dianjie",
+  "license": "ISC"
+}
